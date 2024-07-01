@@ -26,6 +26,7 @@ hi Boolean                       guifg=#F8F8F0   guibg=NONE      gui=bold
 hi Comment                       guifg=#9D9AB7   guibg=NONE      gui=NONE
 hi Conditional                   guifg=#FFB8D1   guibg=NONE      gui=bold
 hi Constant                      guifg=#F8F8F0   guibg=NONE      gui=bold
+hi Directory                     guifg=#C5A3FF   guibg=NONE      gui=NONE
 hi Function                      guifg=#C5A3FF   guibg=NONE      gui=bold
 hi Identifier                    guifg=#C5A3FF   guibg=NONE      gui=NONE
 hi Include                       guifg=#C5A3FF   guibg=NONE      gui=NONE
