@@ -222,6 +222,7 @@ hi CocUnusedHighlight            guifg=NONE      guibg=NONE      gui=NONE
 hi CocNotificationProgress	 guifg=#FFF352   guibg=NONE      gui=bold
 hi CocMenuSel                    guifg=#FFB8D1   guibg=NONE      gui=NONE
 hi CocPumSearch                  guifg=#C5A3FF   guibg=NONE      gui=NONE
+hi CocInlayHint                  guifg=#5A5475   guibg=NONE      gui=NONE
 " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━ "
 "  vim message window          │               │               │
 hi NvimTreeOpenedFolderName      guifg=#C5A3FF   guibg=NONE      gui=bold,italic
